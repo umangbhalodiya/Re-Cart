@@ -14,6 +14,7 @@ const CartContainer = () => {
       </section>
     )
   }
+  
   return (
     <section className='cart'>
       <header>
